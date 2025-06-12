@@ -1,4 +1,4 @@
-# Sale retails Performance Dashboard 
+# Sale Retails Performance Dashboard 
 
 An interactive dashboard built using the Superstore dataset to analyze sales, profit, and customer trends.
 
